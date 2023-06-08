@@ -1,6 +1,6 @@
 ### Hi, I am Lukas 👋
 
-- 👨‍🎓 I am a PhD candidate in Social Policy at the University of Oxford. I am also affiliated with Oxford University’s Institute for New Economic Thinking and WU Vienna’s Research Institute Economics of Inequality. In the academic year 2022/23, I am a visiting scholar at UC Berkeley during fall and at MIT during spring.
+- 👨‍🎓 I am a PhD candidate in Social Policy at the University of Oxford. Currently, I am a Visiting Fellow at MIT Sloan.
 
 - 👨‍🔬 My resarch focuses on the consequences of labor market policies and institutions in a changing world of work. Examples include studies on the [Marienthal job guarantee](https://osf.io/preprints/socarxiv/cd25u/), reframing active labor market policy, and [labor market dualization](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/).
 
