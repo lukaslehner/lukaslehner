@@ -1,6 +1,6 @@
 ### Hi, I am Lukas 👋
 
-- 👨‍🎓 I am a PhD candidate in Social Policy at the University of Oxford. Currently, I am a Visiting Fellow at MIT Sloan.
+- 👨‍🎓 I am a PhD candidate in Social Policy at the University of Oxford.
 
 - 👨‍🔬 My resarch focuses on the consequences of labor market policies and institutions in a changing world of work. Examples include studies on the [Marienthal job guarantee](https://osf.io/preprints/socarxiv/cd25u/), reframing active labor market policy, and [labor market dualization](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/).
 
@@ -14,7 +14,7 @@
 
 - 💡 The code for the website is publicly available in the [repo](https://github.com/lukaslehner/lukaslehner.github.io), which several researchers have forked to build their own website.
 
-- 📫 Feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk) or [Twitter](https://twitter.com/LukasLehner_).
+- 📫 Feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk), [Twitter](https://twitter.com/LukasLehner_), or [BlueSky](https://bsky.app/profile/lukaslehner.bsky.social).
 
 <!--
 **lukaslehner/lukaslehner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
