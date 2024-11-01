@@ -1,10 +1,10 @@
 ### Hi, I am Lukas 👋
 
-- 👨‍🎓 I am a PhD candidate in Social Policy at the University of Oxford and a research fellow at Bocconi University.
+- 👨‍🎓 I am an Assistant Professor at the University of Edinburgh.
 
-- 👨‍🔬 My resarch focuses on the consequences of labor market policies and institutions in a changing world of work. Examples include studies on the [Marienthal job guarantee](https://osf.io/preprints/socarxiv/cd25u/), reframing active labor market policy, and [labor market dualization](https://www.inet.ox.ac.uk/publications/no-2022-04-begging-thy-coworker-labor-market-dualization-and-the-slow-down-of-wage-growth-in-europe/).
+- 👨‍🔬 My resarch focuses on the consequences of labor market policies and institutions in a changing world of work. Examples include studies on the [Marienthal job guarantee](https://osf.io/preprints/socarxiv/cd25u/), [active labor market policy](https://lukaslehner.github.io/assets/Reframing_ALMP.pdf), and [labor market dualization](https://journals.sagepub.com/doi/10.1177/00197939241248162).
 
-- 👨‍🏫 I teach methods courses on statistics and causal inference, and I have developed a course on [reproducibility tools](https://www.gesis.org/fileadmin/upload/GESIS_Training/Syllabi_Methodenseminar/Fall_Seminar_2022/Fall_Seminar_2022_Week_1_Schulte-CloosLehner.pdf). I also teach substantive courses on social policy and comparative political economy, and I have developed a course on [economic policy](https://lukaslehner.github.io/assets/Syllabus_5970_WiPol.pdf).
+- 👨‍🏫 I teach methods courses on statistics and causal inference, and I have developed a course on [reproducibility tools](https://www.gesis.org/fileadmin/upload/GESIS_Training/Syllabi_Methodenseminar/Fall_Seminar_2022/Fall_Seminar_2022_Week_1_Schulte-CloosLehner.pdf). I also teach substantive courses on labor economics, social policy and political economy, and I have developed a course on [economic policy](https://lukaslehner.github.io/assets/Syllabus_5970_WiPol.pdf).
 
 - 🔑 Transparency and reproducibility are core values guiding my research. I aim to make my code accessible to the public.
 
@@ -14,7 +14,7 @@
 
 - 💡 The code for the website is publicly available in the [repo](https://github.com/lukaslehner/lukaslehner.github.io), which several researchers have forked to build their own website.
 
-- 📫 Feel free to reach out via [email](mailto:lukas.lehner@spi.ox.ac.uk), [Twitter](https://twitter.com/LukasLehner_), or [BlueSky](https://bsky.app/profile/lukaslehner.bsky.social).
+- 📫 Feel free to reach out via [email](mailto:lukas.lehner@ed.ac.uk), [Twitter](https://twitter.com/LukasLehner_), or [BlueSky](https://bsky.app/profile/lukaslehner.bsky.social).
 
 <!--
 **lukaslehner/lukaslehner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
