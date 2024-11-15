@@ -12,8 +12,6 @@
 
 - 💻 You can find more info on my work on my website: https://lukaslehner.github.io/.
 
-- 💡 The code for the website is publicly available in the [repo](https://github.com/lukaslehner/lukaslehner.github.io), which several researchers have forked to build their own website.
-
 - 📫 Feel free to reach out via [email](mailto:lukas.lehner@ed.ac.uk), [Twitter](https://twitter.com/LukasLehner_), or [BlueSky](https://bsky.app/profile/lukaslehner.bsky.social).
 
 <!--
